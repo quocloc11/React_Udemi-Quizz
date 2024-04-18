@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import Layout from './Layout';
 import store from './redux/store';
 import { Provider } from 'react-redux';
-
+import 'nprogress/nprogress.css'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Provider store={store}>
