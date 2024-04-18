@@ -53,7 +53,7 @@ const Register = (props) => {
         <button onClick={() => navigate('/login')}>Log in</button>
       </div>
       <div className='title col-4 mx-auto'>
-        Hỏi Dân IT &amp; Eric
+        Trần Quốc Lộc
       </div>
       <div className='welcome col-4 mx-auto'>
         Start your journey?
